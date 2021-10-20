@@ -8,3 +8,6 @@ You will be a little astronaut to conquer every planet!
 ## 11/10 Brainstorming (prototype w/o art)
 ## 12/8 Brainstorming (testing w/ art)
 ## 1/5 Final Demo
+
+# TODO List
+- WebGL game upload
